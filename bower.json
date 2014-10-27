@@ -14,7 +14,8 @@
   "main": "arrive.min.js",
   "ignore": [
     "src",
-    "test",
+    "tests",
+    "releases",
     "**/.*"
   ]
 }
